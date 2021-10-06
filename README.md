@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sanu Singh</h1>
 <h3 align="center">A passionate Coder From India.</h3>
 
