@@ -1,4 +1,4 @@
-<img src = "https://www.canva.com/design/DAEsCK-qK3U/share/preview?token=aQG5uat8DbkUeehSu_-rpQ&role=EDITOR&utm_content=DAEsCK-qK3U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img src="https://github.com/MrUnknown58/MrUnknown58/blob/main/Purple%20Blue%20and%20Black%20Clean%20Graphic%20Welcome%20Message%20High%20School%20Back%20to%20School%20Banner.png">
 <h1 align="center">Hi 👋, I'm Sanu Singh</h1>
 <h3 align="center">A passionate Coder From India.</h3>
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrunknown58&show_icons=true&locale=en" alt="mrunknown58" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunknown58&" alt="mrunknown58" /></p>
+<img src="https://github.com/MrUnknown58/MrUnknown58/blob/main/Magenta%20Keyboard%20Photo%20Gaming%20YouTube%20Channel%20Art.png">
