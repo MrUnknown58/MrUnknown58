@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src = "https://www.canva.com/design/DAEsCK-qK3U/share/preview?token=aQG5uat8DbkUeehSu_-rpQ&role=EDITOR&utm_content=DAEsCK-qK3U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 <h1 align="center">Hi 👋, I'm Sanu Singh</h1>
 <h3 align="center">A passionate Coder From India.</h3>
 
