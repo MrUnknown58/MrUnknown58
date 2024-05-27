@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Prepfully<br>👯 I’m looking to collaborate on Development<br>🌱 I’m currently learning Web3<br>💬 Ask me about DSA, Dev<br>
+🔭 I’m currently working in Prepfully, Amsterdam, Netherlands<br>👯 I’m looking to collaborate on Web Development, App Development, Blockchain <br>🌱 I’m currently learning Web3<br>💬 Ask me about DSA, Dev<br>
 
 
 ## 🌐 Socials:
